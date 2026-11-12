@@ -120,12 +120,10 @@ money. It covers 700 sales records (Sep 2013 – Dec 2014) across 5 segments,
 - **Dashboard:** 7 KPI cards; line, map, donut, scatter, combo and bar charts;
   slicers for Year, Segment, Country and Product.
 
-## Files in this project
-| File | What it is |
+## | File | What it is |
 | --- | --- |
+| `dashboard-preview.png` | Picture of the final dashboard |
 | `Financial_Dashboard.pbix` | The Power BI file (open with Power BI Desktop) |
-| `Dashboard.pdf` | PDF export of the dashboard |
-| `Financial_Performance_Report.pdf` | Executive summary and full process report |
 | `Financial_dataset.xlsx` | The data used |
 
 ## Tools used
