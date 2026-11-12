@@ -133,7 +133,7 @@ Power BI Desktop · Power Query · DAX · Excel
 Microsoft "Financial Sample" dataset, cleaned for this project.
 
 ## About me
-Ruth Adesanya – aspiring data analyst. Connect with me on LinkedIn: [add your link here]
+Ruth Adesanya – aspiring data analyst. Connect with me on LinkedIn: linkedin.com/in/adesanya-adeseye-5778ab2a5
 Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
 No file chosen
 Attach files by dragging & dropping, selecting or pasting them.
