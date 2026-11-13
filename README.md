@@ -123,7 +123,7 @@ money. It covers 700 sales records (Sep 2013 – Dec 2014) across 5 segments,
 ## | File | What it is |
 | --- | --- |
 | `dashboard-preview.png` | Picture of the final dashboard |
-| `Financial_Dashboard.pbix` | The Power BI file (open with Power BI Desktop) |
+| `Financial Performance Dashboard.pbix` | The Power BI file (open with Power BI Desktop) |
 | `Financial_dataset.xlsx` | The data used |
 
 ## Tools used
